@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 😄
+
+I'm Jonny! I like to learn and love to code. Designing unique ideas and solving intriguing problems are my passions!
+
+Feel free to contact me at jonnyberanek@gmail.com
 
 <!--
 **jonnyberanek/jonnyberanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
